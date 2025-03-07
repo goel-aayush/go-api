@@ -1,5 +1,5 @@
 env: "dev"
 storage_path: "storage/storage.db"
 http_server:
-  addres: "localhost:8080"
+  address: "127.0.0.1:8080"
   
